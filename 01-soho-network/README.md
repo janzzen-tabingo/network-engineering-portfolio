@@ -21,7 +21,9 @@ Basic network security
 Connectivity testing
 Troubleshooting
 Network documentation
-Topology
+
+
+# Topology
 
 The initial topology will contain five active nodes:
 
