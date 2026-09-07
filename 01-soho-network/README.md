@@ -37,9 +37,9 @@ Node   | Role              | Platform
 -------|-------------------|------------
 R1     | Router / Gateway  | Cisco IOS
 SW1    | LAN Switch        | Cisco IOS-L2
-PC1    | User Workstation  | Linux
-PC2    | User Workstation  | Linux
-SRV1   | Internal Server   | Linux
+PC1    | User Workstation  | Windows10
+PC2    | User Workstation  | Windows10
+SRV1   | Internal Server   | Nginx
 
 # Network Design
 
