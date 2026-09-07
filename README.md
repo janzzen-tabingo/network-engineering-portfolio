@@ -17,3 +17,13 @@ This portfolio documents practical networking projects focused on building and t
 Projects demonstrate hands-on experience with technologies such as VLANs, trunking, inter-VLAN routing, OSPF, STP, EtherChannel, DHCP, NAT, ACLs, and network troubleshooting.
 
 Each project includes the topology, configuration, implementation details, verification steps, troubleshooting process, and technical documentation to demonstrate both practical networking skills and the ability to communicate technical solutions clearly.
+
+#	Project	Status
+01	SOHO Network	🚧 In Progress
+02	VLAN & Network Segmentation	⏳ Planned
+03	Multi-Site Routing	⏳ Planned
+04	Enterprise Network	⏳ Planned
+05	Network Security	⏳ Planned
+06	Network Automation	⏳ Planned
+07	Network Monitoring	⏳ Planned
+08	Hybrid Cloud Network	⏳ Planned
