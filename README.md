@@ -1,4 +1,4 @@
-<h1 align="left">🌐 Network Engineering Portfolio</h1>
+<h1 align="left"> Network Engineering Portfolio</h1>
 
 <p align="left">
   Hands-on networking projects designed and implemented using 
@@ -7,10 +7,14 @@
 </p>
 
 
-## 👨‍💻 About
+## About
 
 **Janzzen Paul Tabingo**
 
 **Certification:** Cisco Certified Network Associate (CCNA)
 
-This repository documents practical networking labs, configurations, troubleshooting, network designs, and technical documentation developed to strengthen and demonstrate real-world networking skills.
+This portfolio documents practical networking projects focused on building and troubleshooting realistic network environments. It includes network designs, device configurations, routing and switching implementations, troubleshooting scenarios, and technical documentation.
+
+Projects demonstrate hands-on experience with technologies such as VLANs, trunking, inter-VLAN routing, OSPF, STP, EtherChannel, DHCP, NAT, ACLs, and network troubleshooting.
+
+Each project includes the topology, configuration, implementation details, verification steps, troubleshooting process, and technical documentation to demonstrate both practical networking skills and the ability to communicate technical solutions clearly.
