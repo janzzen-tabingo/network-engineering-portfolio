@@ -11,7 +11,6 @@
 
 **Janzzen Paul Tabingo**
 
-**Certification:** Cisco Certified Network Associate (CCNA)
 
 This portfolio documents practical networking projects focused on building and troubleshooting realistic network environments. It includes network designs, device configurations, routing and switching implementations, troubleshooting scenarios, and technical documentation.
 
