@@ -1,4 +1,5 @@
-## 01 — SOHO Network
+# **01 — SOHO Network**
+
 # Project Overview
 
 This project documents the design and implementation of a Small Office/Home Office (SOHO) network using Cisco Modeling Labs (CML).
